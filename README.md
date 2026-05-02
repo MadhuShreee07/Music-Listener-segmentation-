@@ -126,9 +126,4 @@ The model identified **4 key listener types**:
 * Madhu Shree
 * Sanjana
 
----
 
-#
----
-
-⭐ *If you like this project, don’t forget to star the repo!*
